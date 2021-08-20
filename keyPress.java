@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * @author Noah Jaussi
+ * @author Noah
  *
  */
 public class keyPress {
